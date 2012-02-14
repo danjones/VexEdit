@@ -1,0 +1,6 @@
+[submodule "lib/vexflow"]
+	path = lib/vexflow
+	url = git://github.com/danjones/vexflow.git
+[submodule "lib/backbone"]
+	path = lib/backbone
+	url = git://github.com/danjones/backbone.git
