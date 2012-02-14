@@ -1,7 +1,7 @@
 # VexEdit#
 A tool for creating and editing [Vex Flow](http://www.vexflow.com "VexFlow") music notation.
 
-###Submodules###
+###Cloning###
 The vexflow project contains 2 submodules, which need to be initialized. With version 1.6.5 of git and later, you can do this at the same time as cloning the project with:
 
     git clone --recursive git://github.com/danjones/VexEdit.git
